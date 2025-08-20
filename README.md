@@ -1,16 +1,24 @@
 ## Hi there 👋
+I'm unemployed.
+<div>
+  <!--Header-->
 
-<!--
-**jaehyeon0520/jaehyeon0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <!--Body-->
+  
+  ## 👀 About Me
+  #### :raising_hand: I am a developer who studies. <br/>
+  #### :fire: I aim to be a very smart developer. <br/>
+  #### :mortar_board: I am Bang Jaehyun, the 14th back-end developer of Ozcoding School.
+  <br/>
+  <br/>
+  
+  ## 🧱 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+
+
+</div>
